@@ -1,0 +1,66 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
+.nen{
+	background-color:#c9c9d0;
+}
+
+/* .trang{
+	color:white;
+} */
+
+.den{
+	color:black;
+}
+
+a{
+	color:black;
+	text-decoration:none;
+	
+}
+
+ a:hover{
+	color:red;
+}
+
+.wrapper{
+	margin:auto;
+	width:1000px;
+	border:1px solid gray;
+}
+
+
+/* header */
+.menu{
+	height:40px;
+	padding-top:10px;
+	padding-left:5px;
+
+}
+
+.menu span {
+	padding-right:10px;
+	font-weight:bold;
+}
+
+
+
+/* content */
+/* .content{
+	border-left:2px solid gray;
+	border-right:2px solid gray;
+} */
+	
+/* footer */
+.footer{
+	text-align:center;
+	height:70px;
+	padding-top:25;
+}
+
+.footer span{
+	font-style:italic;
+}

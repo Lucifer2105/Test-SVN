@@ -1,0 +1,88 @@
+table.sp{
+	margin:auto;
+	width:800px;
+
+}
+
+table.sp a{
+	color:black;
+}
+
+table.sp,tr,td{
+	border:2px solid gray;
+	border-collapse:collapse;
+}
+.rowhead{
+	text-align:center;
+	background-color:green;
+	color:white;
+	height: 35px;
+}
+
+td {
+	padding:10px;
+}
+			
+.row1{
+	background-color:white;
+}
+			
+.row2{
+	background-color:#d6d6d6;
+}
+/* 			
+.sp tr:hover{
+	background-color:#c1c1c1;
+} */
+
+.sp a:hover{
+	color:black;
+	text-decoration: underline;
+}
+    
+
+.btn{
+    background-color: #1dda1d;
+    width: 214px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+
+.red{
+	color:red;
+}
+
+/* them sp */
+
+.them{
+	background-color:yellow;
+	margin:20px;
+	
+	display: block;
+    width: 110px;
+    height: 19px;
+    padding: 5px;
+}
+
+/* o tim kiem */
+.tk{
+	border-left: none;
+    height: 34px;
+    margin-left: -5px;
+}
+
+.btrai{
+	border-left:1px solid green;
+}
+
+.bphai{
+	border-right:1px solid green;
+}
+.btren{
+	border-top:1px solid green;
+}
+
+.bduoi{
+	border-bottom:1px solid green;
+}
